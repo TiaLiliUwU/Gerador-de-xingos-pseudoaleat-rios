@@ -1,10 +1,6 @@
 # Codado por Sierra & Aliyah
 
 # P/ debugar, comece a ler de baixo p/ cima p/ entender o workflow.
-# Porra, Sierra, é bom explicar melhor o código, tava tenso kkkkkk.
-# Precisamos armazenar definitivamente os dados, para não perder quando reiniciarmos o programa.
-# Precisamos restringir o número de dados apresentados pra evitar que o programa quebre.
-# Precisamos fazer uma versão pra rodar no Windows.
 
 ###################################################
 
