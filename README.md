@@ -29,7 +29,7 @@ Programinha em python para brincar de xingar as pessoas - faço projetos bestas 
 | :------------------------------- |
 | - Erros de formatação nos menus  |
 
-#### Remoção:
+#### Remoções:
 |                       |
 | :-------------------- |
 | - Menu de continuação |
