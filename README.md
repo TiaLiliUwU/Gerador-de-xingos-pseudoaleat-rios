@@ -4,12 +4,30 @@ Programinha em python para brincar de xingar as pessoas - faço projetos bestas 
 
 ![Screen Shot 2023-01-13 at 10 17 47 PM](https://user-images.githubusercontent.com/72944953/212443853-d777e9bb-9bf9-43c9-bb52-86b5c285c69a.png)
 
-Por conta da bibliotéca OS, o programa vai dar erro se for rodado em Windows, será consertado nas próximas atualizações.
+## Changelog:
 
-## Recursos a serem adicionados nas próximas atualizações:
+### Recursos a serem adicionados nas próximas atualizações:
 
-| Salvar os dados para poder consultá-los após o programa ser encerrado |
-| :-------------------------------------------------------------------- |
-| Suporte ao Windows e *nix no mesmo arquivo *                           |
+| - Aprimoramento no algorítmo de xingos |
+| :------------------------------------- |
+| - Sistema de busca                     |
+| - Menu de configuração dos xingos      |
 
-* Para rodar no Windows é só substituir todas as linhas "os.system('clear')" por "os.system('cls')"
+### [1.1.0] - 2023-01-17
+
+#### Adições:
+
+| - Suporte ao Windows e sistemas operacionais *nix                   |
+| :------------------------------------------------------------------ |
+| - Verificação dos últimos 5 inputs do usuário                       |
+| - Armazenamento dos inputs do usuário em documentos com formato TXT |
+
+#### Mudanças:
+
+| :------------------------------- |
+| - Erros de formatação nos menus  |
+
+#### Remoção:
+
+| :-------------------- |
+| - Menu de continuação |
