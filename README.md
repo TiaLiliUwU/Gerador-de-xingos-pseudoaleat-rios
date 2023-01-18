@@ -23,11 +23,11 @@ Programinha em python para brincar de xingar as pessoas - faço projetos bestas 
 | - Armazenamento dos inputs do usuário em documentos com formato TXT |
 
 #### Mudanças:
-
+|                                  |
 | :------------------------------- |
 | - Erros de formatação nos menus  |
 
 #### Remoção:
-
+|                       |
 | :-------------------- |
 | - Menu de continuação |
