@@ -10,6 +10,7 @@ Programinha em python para brincar de xingar as pessoas - faço projetos bestas 
 
 | - Aprimoramento no algorítmo de xingos |
 | :------------------------------------- |
+| - Otimização do código                 |
 | - Interface gráfica                    |
 | - Reset dos inputs armazenados         |
 | - Sistema de busca                     |
