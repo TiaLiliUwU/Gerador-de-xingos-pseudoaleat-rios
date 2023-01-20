@@ -10,12 +10,25 @@ Programinha em python para brincar de xingar as pessoas - faço projetos bestas 
 
 | - Aprimoramento no algorítmo de xingos |
 | :------------------------------------- |
-| - Otimização do código                 |
 | - Criação de um bot do discord         |
 | - Interface gráfica                    |
 | - Reset dos inputs armazenados         |
 | - Sistema de busca                     |
 | - Menu de configuração dos xingos      |
+
+### [1.1.1] - 2023-01-20
+
+#### Mudanças:
+
+|                        |
+| :--------------------- |
+| - Otimização do código |
+
+#### Quebra de compatibilidade:
+
+|                                                                                        |
+| :------------------------------------------------------------------------------------- |
+| - Arquivo Xingos.txt das versões anteriores não é mais suportado, seu uso causará crash|
 
 ### [1.1.0] - 2023-01-17
 
