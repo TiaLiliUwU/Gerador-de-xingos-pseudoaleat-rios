@@ -10,6 +10,9 @@ Programinha em python para brincar de xingar as pessoas - faço projetos bestas 
 
 | - Aprimoramento no algorítmo de xingos |
 | :------------------------------------- |
+| - Otimização do código                 |
+| - Criação de um bot do discord         |
+| - Interface gráfica                    |
 | - Reset dos inputs armazenados         |
 | - Sistema de busca                     |
 | - Menu de configuração dos xingos      |
@@ -28,7 +31,7 @@ Programinha em python para brincar de xingar as pessoas - faço projetos bestas 
 | :------------------------------- |
 | - Erros de formatação nos menus  |
 
-#### Remoção:
+#### Remoções:
 |                       |
 | :-------------------- |
 | - Menu de continuação |
