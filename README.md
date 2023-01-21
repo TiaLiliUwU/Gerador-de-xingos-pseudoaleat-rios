@@ -8,13 +8,14 @@ Programinha em python para brincar de xingar as pessoas - faço projetos bestas 
 
 ### Recursos a serem adicionados nas próximas atualizações:
 
-| - Aprimoramento no algorítmo de xingos |
-| :------------------------------------- |
-| - Criação de um bot do discord         |
-| - Interface gráfica                    |
-| - Reset dos inputs armazenados         |
-| - Sistema de busca                     |
-| - Menu de configuração dos xingos      |
+| - Aprimoramento no algorítmo de xingos               |
+| :--------------------------------------------------- |
+| - Aprimoramento no sistema de armazenamento de dados |
+| - Criação de um bot do discord                       |
+| - Interface gráfica                                  |
+| - Reset dos inputs armazenados                       |
+| - Sistema de busca                                   |
+| - Menu de configuração dos xingos                    |
 
 ### [1.1.1] - 2023-01-20
 
