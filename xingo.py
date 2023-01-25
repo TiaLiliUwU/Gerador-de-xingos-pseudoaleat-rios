@@ -1,9 +1,5 @@
 # Codado por Sierra & Aliyah
 
-# Melhorar o gerador aleatório de Xingamentos
-# Adicionar um sistema de buscas
-# Adicionar um painel de configuração dos xingamentos
-
 ###################################################
 
 # Gerenciar menus
