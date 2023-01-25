@@ -4,13 +4,13 @@ Essa branch é dedicada a novas funcionalidades do Gerador de xingos pseudoaleat
 
 ![Screen Shot 2023-01-13 at 10 17 47 PM](https://user-images.githubusercontent.com/72944953/212443853-d777e9bb-9bf9-43c9-bb52-86b5c285c69a.png)
 
-## Recursos em desenvolvimento:
+## Em desenvolvimento:
 
 | - Reset dos inputs armazenados |
 | :----------------------------- |
 | - Melhorias no código          |
 
-## Recursos que ainda serão desenvolvidos:
+## A serem desenvolvidos:
 
 | - Aprimoramento no algorítmo de xingos               |
 | :--------------------------------------------------- |
