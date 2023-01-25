@@ -2,7 +2,7 @@
 
 Programinha em python para brincar de xingar as pessoas - faço projetos bestas porque me estimula a aprender.
 
-![Screen Shot 2023-01-13 at 10 17 47 PM](https://user-images.githubusercontent.com/72944953/212443853-d777e9bb-9bf9-43c9-bb52-86b5c285c69a.png)
+![Screen Shot 2023-01-24 at 11 48 07 PM](https://user-images.githubusercontent.com/72944953/214469500-41264a75-233c-4dd8-8745-4fb7cd5c024b.png)
 
 ## Changelog:
 
