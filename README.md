@@ -2,7 +2,7 @@
 
 Essa branch é dedicada a novas funcionalidades do Gerador de xingos pseudoaleatórios.
 
-![Screen Shot 2023-01-13 at 10 17 47 PM](https://user-images.githubusercontent.com/72944953/212443853-d777e9bb-9bf9-43c9-bb52-86b5c285c69a.png)
+![Screen Shot 2023-01-24 at 11 51 12 PM](https://user-images.githubusercontent.com/72944953/214469804-36e23c9c-a7b4-4ea7-84d1-78ebafbf5d06.png)
 
 ## Em desenvolvimento:
 
